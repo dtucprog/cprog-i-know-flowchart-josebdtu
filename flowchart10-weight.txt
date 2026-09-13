@@ -1,0 +1,4 @@
+i need to Progress in the gym, in order to Progress i have to go up in weight, if i
+manage to lift the weight i increase it by 5 kg. if i dont lift it i stay at the same weight.
+after each week output the amount of weight i should lift next time.
+
